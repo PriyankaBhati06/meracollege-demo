@@ -1,5 +1,5 @@
 # meracollege-demo
 This is my first Git Repository.
 <br>
-Author- Priyanka Bhati
+Author- Priyanka (Meraa college)
 
